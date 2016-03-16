@@ -6,3 +6,4 @@ Creating a new branch is quick and simple.
 Git merge with fast-forward.
 Now the merge without fast-forward.
 fix the issue-101.
+now in the feature-login,is the feature-login branch modified.
